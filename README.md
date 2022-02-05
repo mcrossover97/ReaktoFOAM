@@ -2,7 +2,7 @@
 A Geochemical Reactive Transport Solver for Acidizing: Coupling OpenFOAM and Reaktoro
 
 # How To Use
-The ReaktoFOAM simulator consists of two OpenFOAM solvers: "LEAFOAM" and "PLEAFOAM" that solve the reactive transport problem using Local Equilibrium Approach and Partial Local Equilibrium Approach, respectively. The Use the Solvers, it is necessary to first install OpenFOAM and its plugin, swak4Foam:
+The ReaktoFOAM simulator consists of two OpenFOAM solvers: "LEAFOAM" and "PLEAFOAM" that solve the reactive transport problem using Local Equilibrium Approach and Partial Local Equilibrium Approach, respectively. To use the solvers, it is necessary to first install OpenFOAM and its plugin, swak4Foam:
 
 https://openfoam.org/download/
 https://openfoamwiki.net/index.php/Contrib/swak4Foam
